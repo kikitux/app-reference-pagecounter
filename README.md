@@ -9,16 +9,23 @@ create a repo, empty
 - move TODO to done
 - all should be clear and nice in the history of the repo
 
+## pre-requirements
+- [x] you have your own bionic64 box published on Vagrantclod
+- [x] you can create your own base boxes
+
+
 ## the task
  for a page couner should be like
-- create repo on github
-- setup a Vagrantfile that configure the environment, scripts should be idempotent
-- when scripts done, create a separate repo for packer-<runtime> and use the same scripts, box should have test, upload box to Vagrant Cloud
-- update Vagrantfile to use new box from VagrantCloud
-- setup a web page that print zero
-- connect app to redis db
-- replace zero with redis counter, so it prints 1, 2, 3, etc after visit
+- [ ] create repo on github
+- [ ] setup a Vagrantfile that configure the environment, scripts should be idempotent
+- [ ] when scripts done, create a separate repo for packer-<runtime> and use the same scripts, box should have test, upload box to Vagrant Cloud
+- [ ] update Vagrantfile to use new box from VagrantCloud
+- [ ] setup a web page that print zero
+- [ ] connect app to redis db
+- [ ] replace zero with redis counter, so it prints 1, 2, 3, etc after visit
   
+## features required
+- [ ] TODO this
 
 ### TODO
 - [ ] task c
