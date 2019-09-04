@@ -19,3 +19,12 @@ create a repo, empty
 - connect app to redis db
 - replace zero with redis counter, so it prints 1, 2, 3, etc after visit
   
+
+### TODO
+- [ ] task c
+- [ ] task d
+- [ ] task e
+
+### DONE
+- [x] task a
+- [x] task b
