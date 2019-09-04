@@ -3,8 +3,8 @@ The repository for page counter repo and re
 
 ## repo management ideas
 create a repo, empty
-- put a TODO and a DONE
-- start writing TODO task
+- put a [TODO](https://github.com/kikitux/app-reference-pagecounter/blob/master/README.md#todo) and a [DONE](https://github.com/kikitux/app-reference-pagecounter/blob/master/README.md#done)
+- start writing TODO list of tasks
 - branch / PR per each TODO
 - move TODO to done
 - all should be clear and nice in the history of the repo
